@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sfavorite\\productadmin\\": "src"
+            "Sfavorite\\productadmin": "src"
         }
     },
     "autoload-dev": {
